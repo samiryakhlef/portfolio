@@ -5,9 +5,8 @@ import './Home.css'
 export default function Home() {
     return (
         <>
-            <Link
-                to="/">
-            </Link>
+            <Link to="/"></Link>
+            <h2>Accueil</h2>
         </>
         
     )
